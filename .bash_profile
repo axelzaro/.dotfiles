@@ -11,5 +11,5 @@ alias gcv='~/tools/GCViewer.app'
 #echo "echo blah >> /tmp/test" | sudo bash
 
 # log parse
-alias logAfter='echo "File name?" ; read fname ; echo "logs after date?" ; read afterDate ; awk "/$afterDate.*/,0" $fname > $fname$afterDate'
+alias logAfter='echo "File name?" ; read fname ; echo "logs after date?" ; read afterDate ; awk "/$afterDate.*/,0" $fname > ${fname}_after_$afterDate'
 
