@@ -12,4 +12,5 @@ alias gcv='~/tools/GCViewer.app'
 
 # log parse
 alias logAfter='echo "File name?" ; read fname ; echo "logs after date?" ; read afterDate ; awk "/$afterDate.*/,0" $fname > ${fname}_after_$afterDate'
+alias extractLog="echo 'File name?' ; read fname ; echo 'logs from date?' ; read startDate ; echo 'logs to date?' ; read endDate ; sed -n '/$startDate/,/$endDate/p' $fname > ${fname}.extracted"
 
