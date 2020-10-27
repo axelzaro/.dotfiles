@@ -12,10 +12,11 @@ tickets = ""
 url = "https://ps-ticketstatus.prod.atl-paas.net/tickets"
 
 for folder in listdir:
-    print("checking" + folder)
     if (folder.startswith("PS" or "BSP") or folder.startswith("BSP")):
         print("Adding ticket:" + folder)
         tickets += folder + ","
+    else:
+        print("untracked folder " + folder)
 
 # Remove the last comma
 tickets = tickets[:-1]
