@@ -4,3 +4,6 @@
 [submodule "scripts/python-marketplace-plugin-checker"]
 	path = scripts/python-marketplace-plugin-checker
 	url = git@bitbucket.org:DevToolsSupportTeam/python-marketplace-plugin-checker.git
+[submodule "scripts/dumbo"]
+	path = scripts/dumbo
+	url = ssh://git@stash.atlassian.com:7997/c4l/dumbo.git
