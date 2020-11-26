@@ -17,4 +17,17 @@ alias logAfter='echo "File name?" ; read fname ; echo "logs after date?" ; read 
 alias extractLog="echo 'File name?' ; read fname ; echo 'logs from date?' ; read startDate ; echo 'logs to date?' ; read endDate ; sed -n '/$startDate/,/$endDate/p' $fname > ${fname}.extracted"
 
 # docekr shortcuts
-#docker run --network=dockerNetwork -v bambooAgentVolume_agent011:/home/bamboo/bamboo-agent-home --name="agent011" --init -d atlassian/bamboo-agent-base http://10.10.0.4:8085
+#alias startAgent='docker run --network=dockerNetwork -v bambooAgentVolume_agent011:/home/bamboo/bamboo-agent-home --name="agent011" --init -d atlassian/bamboo-agent-base http://10.10.0.4:8085'
+alias test='echo $0 $1 $2 $3'
+    startNewAgent(){
+        if [ $# -lt 1 ]
+            then
+                echo "No arguments supplied"
+                echo "first arg agent_name"
+                echo "second arg BambooIP"
+                echo "example: startNewAgent agent1 10.10.0.3"
+            else
+                docker run --network=testEnviornment -v bambooAgentVolume_$1:/home/bamboo/bamboo-agent-home --name=$1 --init -d atlassian/bamboo-agent-base http://$2:8085
+        fi
+        echo "done"
+    }
