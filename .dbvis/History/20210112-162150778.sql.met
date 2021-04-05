@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Tue Jan 12 16:21:50 BRST 2021
+file.comment=
+last.database_type=PostgreSQL
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=public
+last.sql_preview=SELECT PVL.* FROM build B JOIN public.plan_vcs_loc
+exec.catalog=bamboo703
+last.affected_row_count=2
+exec.connection=0
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.202
+last.execution_time=1610475710767

@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Mon Nov 23 12:53:49 BRST 2020
+file.comment=
+last.database_type=SQL Server
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=dbo
+last.sql_preview=ALTER DATABASE bamboo711ms SET READ_COMMITTED_SNAP
+exec.catalog=master
+last.affected_row_count=0
+exec.connection=3
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.331
+last.execution_time=1606143229122

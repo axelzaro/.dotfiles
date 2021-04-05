@@ -1,0 +1,1 @@
+Select * from public.capability where capability_set = 2818049

@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Mon Nov 23 18:01:04 BRST 2020
+file.comment=
+last.database_type=SQL Server
+last.execution_success_count=0
+last.execution_error_count=1
+exec.schema=dbo
+last.sql_preview=SELECT Convert(XML,XML_DEFINITION_DATA).value("/")
+exec.catalog=bamboo711ms
+last.affected_row_count=0
+exec.connection=3
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.012
+last.execution_time=1606161664532

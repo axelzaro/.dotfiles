@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Wed Nov 25 15:32:22 BRST 2020
+file.comment=
+last.database_type=Oracle
+last.execution_success_count=2
+last.execution_error_count=0
+exec.schema=SYSTEM
+last.sql_preview=ALTER USER BAMBOO692ORA IDENTIFIED BY tiger accoun
+exec.catalog=
+last.affected_row_count=0
+exec.connection=1
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.052
+last.execution_time=1606325542762

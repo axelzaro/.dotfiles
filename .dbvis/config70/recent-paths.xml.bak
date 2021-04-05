@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecentPaths>
+  <RecentPathSet>
+    <PathType>DATABASE_EXPORT_IMPORT_FILES</PathType>
+    <RecentPath>
+      <Path><![CDATA[/Users/svetlozar.orlovski/Desktop/deployment.sql]]></Path>
+      <Encoding>UTF-8</Encoding>
+      <LastUsed>1607636378295</LastUsed>
+    </RecentPath>
+    <RecentPath>
+      <Path><![CDATA[/Users/svetlozar.orlovski/Desktop/admin.csv]]></Path>
+      <Encoding>UTF-8</Encoding>
+      <LastUsed>1604437027763</LastUsed>
+    </RecentPath>
+    <RecentPath>
+      <Path><![CDATA[/Users/svetlozar.orlovski/Desktop/test]]></Path>
+      <Encoding>UTF-8</Encoding>
+      <LastUsed>1603994886366</LastUsed>
+    </RecentPath>
+  </RecentPathSet>
+  <RecentPathSet>
+    <PathType>SQL_FILES</PathType>
+    <RecentPath>
+      <Path><![CDATA[/Users/svetlozar.orlovski/Desktop/deployment.sql]]></Path>
+      <Encoding>UTF-8</Encoding>
+      <LastUsed>1607636378295</LastUsed>
+    </RecentPath>
+    <RecentPath>
+      <Path><![CDATA[/Users/svetlozar.orlovski/Desktop/test]]></Path>
+      <Encoding>UTF-8</Encoding>
+      <LastUsed>1603994886366</LastUsed>
+    </RecentPath>
+  </RecentPathSet>
+  <RecentPathSet>
+    <PathType>LICENSE_FILES</PathType>
+    <RecentPath>
+      <Path><![CDATA[/Users/svetlozar.orlovski/Documents/dbvis.license]]></Path>
+      <LastUsed>1581098861127</LastUsed>
+    </RecentPath>
+  </RecentPathSet>
+</RecentPaths>

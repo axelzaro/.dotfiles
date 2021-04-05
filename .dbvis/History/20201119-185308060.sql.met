@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Thu Nov 19 18:53:08 BRST 2020
+file.comment=
+last.database_type=PostgreSQL
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=public
+last.sql_preview=SELECT cast((xpath('//configuration/branches/branc
+exec.catalog=bamboo711
+last.affected_row_count=1
+exec.connection=0
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.572
+last.execution_time=1605819187933

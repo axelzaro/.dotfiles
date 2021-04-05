@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Mon Sep 28 17:10:08 BRT 2020
+file.comment=
+last.database_type=Oracle
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=BAMBOO692ORA
+last.sql_preview=select REPO.VCS_LOCATION_ID , REPO.NAME , XMLTYPE(
+exec.catalog=
+last.affected_row_count=3
+exec.connection=1
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.346
+last.execution_time=1601323808600

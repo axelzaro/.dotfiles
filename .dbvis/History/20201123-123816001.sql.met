@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Mon Nov 23 12:38:16 BRST 2020
+file.comment=
+last.database_type=SQL Server
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=
+last.sql_preview=select name, collation_name from sys.databases
+exec.catalog=bamboo711ms
+last.affected_row_count=5
+exec.connection=3
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.624
+last.execution_time=1606142295982

@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Thu Jul 09 10:49:06 BRT 2020
+file.comment=
+last.database_type=PostgreSQL
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=public
+last.sql_preview=SELECT * FROM audit_log WHERE child_id \= '2031617'
+exec.catalog=bamboo673
+last.affected_row_count=1
+exec.connection=0
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.571
+last.execution_time=1594302546690

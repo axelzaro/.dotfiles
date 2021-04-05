@@ -1,0 +1,12 @@
+# DbVisualizer license key
+dbvis.license.product        = DbVisualizer
+dbvis.license.edition        = Personal
+dbvis.license.id             = 382817506 / #1
+dbvis.license.name           = Atlassian
+dbvis.license.org            = Atlassian
+dbvis.license.activation     = 2018-05-20
+dbvis.license.expire         = 2099-01-01
+dbvis.license.upgrade.expire = 2019-06-22
+dbvis.license.seal           = MCwCFEthfwrnqPytu8LP2x5uiIUqGgtNAhQQvir/g3MGknednas4qIyUu3lxYg==
+# The following is needed only for backward compatibility
+dbvis.license.version        = 5.*

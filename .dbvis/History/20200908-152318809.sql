@@ -1,0 +1,7 @@
+SELECT
+    *
+FROM
+    BUILD B
+WHERE
+
+B.STORAGE_TAG IN ('plan-1900545','plan-1900547')

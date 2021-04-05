@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Tue Oct 06 20:35:56 BRT 2020
+file.comment=
+last.database_type=PostgreSQL
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=public
+last.sql_preview=SELECT * FROM bandana WHERE bandana_key\='bamboo.pl
+exec.catalog=bamboo703
+last.affected_row_count=1
+exec.connection=0
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.555
+last.execution_time=1602027356178

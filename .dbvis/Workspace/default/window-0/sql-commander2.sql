@@ -1,0 +1,36 @@
+SELECT
+    labelimpl0.LABEL_ID     AS LABEL_ID1_77,
+    labelimpl0.NAME         AS NAME2_77,
+    labelimpl0.NAMESPACE    AS NAMESPACE3_77,
+    labelimpl0.CREATED_DATE AS CREATED_DATE4_77,
+    labelimpl0.UPDATED_DATE AS UPDATED_DATE5_77
+FROM
+    LABEL labelimpl0
+INNER JOIN
+    BUILDRESULTSUMMARY_LABEL labellings1
+ON
+    labelimpl0.LABEL_ID=labellings1.LABEL_ID
+WHERE
+    \(labellings1.BUILDRESULTSUMMARY_ID IS NULL\)
+AND labellings1.BUILD_ID=263497779
+AND labelimpl0.NAMESPACE=:1
+ORDER BY
+    labelimpl0.NAME ASC,
+    OriginalSql =
+SELECT
+    labelimpl0.LABEL_ID     AS LABEL_ID1_77,
+    labelimpl0.NAME         AS NAME2_77,
+    labelimpl0.NAMESPACE    AS NAMESPACE3_77,
+    labelimpl0.CREATED_DATE AS CREATED_DATE4_77,
+    labelimpl0.UPDATED_DATE AS UPDATED_DATE5_77
+FROM
+    LABEL labelimpl0
+INNER JOIN
+    BUILDRESULTSUMMARY_LABEL labellings1
+ON
+    labelimpl0.LABEL_ID=labellings1.LABEL_ID
+WHERE
+    \(labellings1.BUILDRESULTSUMMARY_ID IS NULL\)
+AND labellings1.BUILD_ID=263497779
+AND labelimpl0.NAMESPACE=\?
+    

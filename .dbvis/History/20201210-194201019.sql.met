@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Thu Dec 10 19:42:01 BRST 2020
+file.comment=
+last.database_type=PostgreSQL
+last.execution_success_count=3799
+last.execution_error_count=527
+exec.schema=public
+last.sql_preview=DROP SEQUENCE public.AO_38321B_CUSTOM_CONTENT_LINK
+exec.catalog=bamboo673t
+last.affected_row_count=3660
+exec.connection=0
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=21.753
+last.execution_time=1607636520729

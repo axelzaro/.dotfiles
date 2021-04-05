@@ -1,0 +1,15 @@
+#Extended file properties defined by DbVisualizer
+#Tue Dec 22 17:40:03 BRST 2020
+file.comment=
+last.database_type=PostgreSQL
+last.execution_success_count=1
+last.execution_error_count=0
+exec.schema=public
+last.sql_preview=SELECT CAST((xpath('//configuration/triggerDefinit
+exec.catalog=bamboo711
+last.affected_row_count=11
+exec.connection=0
+file.encoding=UTF-8
+last.execution_count=1
+last.elapsed_time=0.261
+last.execution_time=1608666003644

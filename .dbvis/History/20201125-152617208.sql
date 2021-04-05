@@ -1,0 +1,1 @@
+alter user BAMBOO692ORA identified by tiger account unlock; 
